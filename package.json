@@ -1,0 +1,20 @@
+{
+    "name": "JQueryDurationPicker",
+    "version": "1.0.0",
+    "title": "JQuery Duration Picker",
+    "author": {
+      "name": "Tartarus762"
+    },
+    "licenses": [
+      {
+        "type": "MIT"
+      }
+    ],
+    "dependencies": {
+    },
+    "description": "jQuery duration picker",
+    "keywords": [
+
+    ],
+    "homepage": "https://github.com/Tartarus762/jquery-duration-picker"
+  }
